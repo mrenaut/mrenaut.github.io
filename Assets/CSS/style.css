@@ -114,7 +114,7 @@ h2 {
 	color: #4aaaa5;
 	font-family: 'Georgia', Times, Times New Roman, serif;
 	font-weight: bold;
-	font-size: 25px;
+	font-size: 30px;
 }
 
 hr {
@@ -137,6 +137,10 @@ hr {
 		margin-top: 20px;
 		padding: 20px;
 	}
+
+#connectwithmetitle {
+	font-size: 20px;
+}
 .icon {
 	height: 75px;
 	width: 75px;
